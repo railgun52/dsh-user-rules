@@ -1,0 +1,3 @@
+- insert:
+    - id: user-rules
+      name: '@railgun52/dsh-user-rules'
