@@ -1,5 +1,7 @@
 # dsh-user-rules — User rules settings page
 
+[![npm](https://img.shields.io/npm/v/@railgun52/dsh-user-rules?style=flat-square)](https://www.npmjs.com/package/@railgun52/dsh-user-rules)
+
 English | [中文](README.zh.md)
 
 > A profile-config settings page for DeepSeek Harness that injects your own development rules into every session's system prompt.
@@ -41,7 +43,7 @@ dsh-user-rules/
 ### From a local directory (development)
 dsh plugin --profile web add link:/absolute/path/to/dsh-user-rules
 
-### From npm (once published)
+### From npm (recommended)
 dsh plugin --profile web add @railgun52/dsh-user-rules@latest
 ```
 

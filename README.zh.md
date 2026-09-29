@@ -1,5 +1,7 @@
 # dsh-user-rules — 用户规则设置页
 
+[![npm](https://img.shields.io/npm/v/@railgun52/dsh-user-rules?style=flat-square)](https://www.npmjs.com/package/@railgun52/dsh-user-rules)
+
 [English](README.md) | 中文
 
 > DeepSeek Harness 的 profile-config 设置页，把你的开发规则注入到每个会话的系统提示里。
@@ -41,7 +43,7 @@ dsh-user-rules/
 ### 从本地目录（开发）
 dsh plugin --profile web add link:/absolute/path/to/dsh-user-rules
 
-### 从 npm（发布后）
+### 从 npm（推荐）
 dsh plugin --profile web add @railgun52/dsh-user-rules@latest
 ```
 
